@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="4.3.4" method="upgrade">
+    <name>pkg_wishboxcdekapiclient</name>
+    <author>Nekrasov Vitaliy</author>
+    <authorEmail>nekrasov_vitaliy@list.ru</authorEmail>
+    <creationDate>November 2026</creationDate>
+    <packagename>wishboxcdekapiclient</packagename>
+    <version>1.0.0</version>
+    <packager>Nekrasov Vitaliy</packager>
+    <description>Wishbox Cdek API client Package</description>
+    <scriptfile>script.php</scriptfile>
+    <files>
+        <file type="library" id="wishboxcdekapiclient">lib_wishboxcdekapiclient.zip</file>
+    </files>
+</extension>

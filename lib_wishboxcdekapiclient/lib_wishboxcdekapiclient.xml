@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade">
+    <name>Wishbox CDEK API Client</name>
+    <libraryname>wishboxcdekapiclient</libraryname>
+    <author>Wishbox</author>
+    <creationDate>2026-10-30</creationDate>
+    <license>MIT</license>
+    <version>0.1.0</version>
+    <description>CDEK API client library</description>
+    <namespace path="src">WishboxCdek</namespace>
+    <files>
+        <folder>src</folder>
+    </files>
+</extension>
